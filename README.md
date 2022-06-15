@@ -5,7 +5,7 @@
 - 👀 I’m interested in all things code
 - 🌱 I’m currently learning everything :)
 - 💞️ I’m looking to collaborate on any projects that I can learn from or grow from
-- 📫 you can connect with me on Linkedin https://www.linkedin.com/in/cameron-verver-879090181/
+- 📫 you can connect with me on Linkedin <a href="https://www.linkedin.com/in/cameron-verver-879090181/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 - ✨ special ✨ also interested in D&D and all things nerdy
 
 ---
