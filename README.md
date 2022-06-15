@@ -1,4 +1,4 @@
-![banner](https://wallpapercave.com/wp/wp6350578.jpg)
+[![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://www.freecodecamp.org/)
 
 - 👋 Hello I'm Cameron 
 - 👀 I’m interested in all things code
