@@ -1,4 +1,5 @@
 [![freeCodeCamp Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)](https://www.freecodecamp.org/)
+<p align="center">Check out freecodecamp an amazing resource for learning to code</p>
 
 - 👋 Hello I'm Cameron 
 - 👀 I’m interested in all things code
